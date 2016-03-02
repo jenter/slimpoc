@@ -1,0 +1,22 @@
+{
+  "name": "generator-slim",
+  "version": "1.0.0",
+  "description": "Yoeman generator to build theme files dynamically",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chalk": "^1.1.1",
+    "yeoman-assert": "^2.1.1",
+    "yeoman-generator": "^0.21.1",
+    "yosay": "^1.1.0",
+    "mem-fs-editor": "^2.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

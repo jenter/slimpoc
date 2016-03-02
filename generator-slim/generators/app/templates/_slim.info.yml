@@ -1,0 +1,16 @@
+name: <%= humanName %>
+type: theme
+description: <%= themeDescr %>
+package: Core
+core: 8.x
+libraries:
+  - <%= themeName %>/lib
+regions:
+  branding: 'Branding'
+  header: 'Header'
+  pre_content: 'Pre Content'
+  content: Content
+  sidebar_first: 'Sidebar first'
+  sidebar_second: 'Sidebar second'
+  post_content: Post Content
+  footer: Footer
